@@ -1,12 +1,12 @@
-#  Chicken Biryani Recipe Website (HTML Project)
+# Chicken Biryani Recipe Website (HTML Project)
 
-##  Description
+## Description
 
 A simple HTML-based recipe webpage for Chicken Biryani. It includes ingredients, step-by-step cooking instructions, and extra toppings. This project is designed for beginners to practice HTML structure, lists, images, and links.
 
 ---
 
-##  Features
+## Features
 
 * Clean and structured HTML layout
 * Ingredients and cooking steps
@@ -16,20 +16,16 @@ A simple HTML-based recipe webpage for Chicken Biryani. It includes ingredients,
 
 ---
 
-## 🧾 Technologies Used
+## Technologies Used
 
 * HTML5
 
 ---
 
 
-## 🚀 How to Run
+## How to Run
 
 1. Download or clone the repository
 2. Open the folder in VS Code
 3. Run `index.html` in a browser
 
----
-## 👩‍🍳 Author
-#SanaAzhar.
-Created as a beginner HTML practice project for learning web development basics.
