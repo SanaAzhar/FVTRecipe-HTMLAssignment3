@@ -30,13 +30,6 @@ A simple HTML-based recipe webpage for Chicken Biryani. It includes ingredients,
 3. Run `index.html` in a browser
 
 ---
-
-## 🔗 Reference
-
-Inspired by Food Fusion:
-https://www.foodfusion.com/recipe/chicken-masala-biryani/
-
----
 ## 👩‍🍳 Author
 #SanaAzhar.
 Created as a beginner HTML practice project for learning web development basics.
